@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Co-vengers/Leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Co-vengers/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Co-vengers/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Co-vengers/Leetcode/tree/master/0075-sort-colors) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Co-vengers/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Co-vengers/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Co-vengers/Leetcode/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Co-vengers/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
