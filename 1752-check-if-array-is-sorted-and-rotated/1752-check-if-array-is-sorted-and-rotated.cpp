@@ -2,18 +2,13 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int bp = 0;
+        int n = nums.size();
 
-        for(int i = 1 ; i < nums.size() ; i++){
-            if(nums[i] < nums[i-1]){
+        for(int i = 0 ; i < n ; i++){
+            if(nums[i] > nums[(i+1) % n]){
                 bp++;
             }
         }
-        if(bp == 0){
-            return true;
-        }
-        else if(bp <= 1 && nums[nums.size() - 1] <= nums[0]){
-            return true;
-        }
-        return false;
+        return bp <= 1;
     }
 };
