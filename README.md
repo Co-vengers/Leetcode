@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Co-vengers/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Co-vengers/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Co-vengers/Leetcode/tree/master/0118-pascals-triangle) |
+| [0455-assign-cookies](https://github.com/Co-vengers/Leetcode/tree/master/0455-assign-cookies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Co-vengers/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Co-vengers/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Co-vengers/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Co-vengers/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Co-vengers/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Co-vengers/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Co-vengers/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Co-vengers/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Co-vengers/Leetcode/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Co-vengers/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Co-vengers/Leetcode/tree/master/0090-subsets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Co-vengers/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
