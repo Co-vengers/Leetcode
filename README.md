@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Co-vengers/Leetcode/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/Co-vengers/Leetcode/tree/master/0455-assign-cookies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Co-vengers/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Co-vengers/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Co-vengers/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Co-vengers/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Co-vengers/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Co-vengers/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Co-vengers/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Co-vengers/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
